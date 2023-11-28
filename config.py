@@ -1,3 +1,3 @@
-N_WORKERS = 4
+N_WORKERS = 12
 MAX_CAPACITY = 4096  # Для примера
 BLOCK_SIZE = 4096
